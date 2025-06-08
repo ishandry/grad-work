@@ -1,8 +1,6 @@
 # DEMO
 
-<video src="ui-demo.gif" controls>
-  Your browser does not support the video tag.
-</video>
+![Demo GIF](ui-demo.gif)
 
 ---
 
