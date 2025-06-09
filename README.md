@@ -1,21 +1,21 @@
-# DEMO
+# Робота розробленого застосунку
 
 ![Demo GIF](ui-demo.gif)
 
 ---
 
-## RAG creation
+## Блок-схема побудови бази знань для RAG системи
 
 ![RAG creation](rag-algo.png)
 
 ---
 
-## Web
+## Архітектура побудованого застосунку
 
 ![Web](web-arch.png)
 
 ---
 
-## File partition with Unstructured
+## Зчитування фрагментів знань з використанням відкритої бібліотеки Unstructured
 
 ![File partition with Unstructured](pdf-partition.png)
