@@ -1,21 +1,27 @@
 # Робота розробленого застосунку
 
-![Demo GIF](ui-demo.gif)
+![Демо застосунку](ui-demo.gif)
+
+---
+
+## Ефективність пошуку з різними параметрами
+
+![Метрики ефективності](matlabCombinedImage.png)
 
 ---
 
 ## Блок-схема побудови бази знань для RAG системи
 
-![RAG creation](rag-algo.png)
+![Алгоритм побудови RAG](rag-algo.png)
 
 ---
 
 ## Архітектура побудованого застосунку
 
-![Web](web-arch.png)
+![Веб-архітектура](web-arch.png)
 
 ---
 
 ## Зчитування фрагментів знань з використанням відкритої бібліотеки Unstructured
 
-![File partition with Unstructured](pdf-partition.png)
+![Зчитування файлів](pdf-partition.png)
